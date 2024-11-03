@@ -240,8 +240,8 @@ function App() {
     <div className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 py-8 px-4">
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-gray-900 mb-2">Magnificent Seven Options Advisor</h1>
-          <p className="text-gray-600">Manage your short options positions with confidence</p>
+          <h1 className="text-3xl font-bold text-gray-900 mb-2">What Would TradFiFam Do?r</h1>
+          <p className="text-gray-600">Manage your current positions with full knowledge of what TradFiWife does based on simple rules.</p>
         </div>
 
         {positions.map((position, index) => (
